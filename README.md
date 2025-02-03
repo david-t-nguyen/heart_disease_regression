@@ -1,0 +1,1 @@
+The purpose of this project is to anaylze health factors that may correlate with heart disease. This will be done by analyzing the factors through a series of different classification techniques. The optimality of the techniques will be evaluated by using them in order to train models to predict the likelihood of a person having heart disease.
