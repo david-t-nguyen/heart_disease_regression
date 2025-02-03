@@ -1,14 +1,14 @@
-#HEART DISEASE REGRESION ANALYSIS
+# HEART DISEASE REGRESION ANALYSIS
 
-###Overview
+### Overview
 The purpose of this project is to anaylze health factors that may correlate with heart disease. This will be done by analyzing the factors through a series of different classification techniques. The optimality of the techniques will be evaluated by using them in order to train models to predict the likelihood of a person having heart disease.
 
 
-###Background
+### Background
 Data will be a subset of the UCI Heart Disease dataset. This data has been fully supervised by UCI meaning that it's been fully labeled and we can trust the veracity of the labeling.
 Labels
-age: Age in years
-sex: (1 = male; 0 = female)
+- age: Age in years
+- sex: (1 = male; 0 = female)
 cp: Chest pain type (0 = asymptomatic; 1 = atypical angina; 2 = non- anginal pain; 3 = typical angina)
 trestbps: Resting blood pressure (in mm Hg on admission to the hospital) cholserum: Cholestoral in mg/dl
 fbs Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
